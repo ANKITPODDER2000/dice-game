@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+//import uuid for unique key
 import { v4 as uuidv4 } from "uuid";
 import DiceBox from "./DiceBox";
 import Button from "./Button";
